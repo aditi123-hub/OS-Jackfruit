@@ -126,7 +126,7 @@ sudo rmmod monitor
 
 Shows successful compilation using `make` and extraction of the Alpine Linux root filesystem.
 
-![Setup: Build and rootfs](screenshots/setup-1-build.png)
+![Setup: Build and rootfs](setup-1-build.png)
 
 ---
 
